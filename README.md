@@ -1,2 +1,5 @@
 # hello-world
-the best revenge is SUCCESS
+The best revenge is SUCCESS
+I am hungry for success
+I know it's not easy
+But it's not impossible
